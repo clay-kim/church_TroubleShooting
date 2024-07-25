@@ -1,0 +1,51 @@
+.displayDiv {
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
+h2 {
+    color: rgba(232, 55, 105, 0.87);
+    margin-left: 10px;
+}
+.title{
+    margin-left: 0px;
+}
+
+.delete_button {
+    margin-top: 3px;
+    margin-left: 0px;
+    font-size: 14px;
+    width: 60px;
+    height: 24px;
+    border-radius: 10px;
+    background-color: rgba(226, 63, 55, 0.67);
+    cursor: pointer;
+}
+
+.search_box {
+    width: 90px;
+    height: 24px;
+    margin-left: 10px;
+}
+
+.search_category{
+    margin-bottom: 10px;
+}
+
+.search_keyword{
+    margin-bottom: 10px;
+}
+
+.search_button{
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 20px;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgba(115, 240, 144, 0.67);
+}
+
+.list{
+    padding: 10px;
+}

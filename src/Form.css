@@ -1,0 +1,52 @@
+/* Form.css */
+.input-large {
+    width: 10%;
+    box-sizing: border-box;
+  }
+
+.category_box {
+    margin-left: 10px;
+    height: 24px;
+}
+
+.problem_box {
+ width: 80%;
+ margin-left: 10px;
+ resize: vertical; 
+ height: 24px;
+}
+
+.solution_box {
+    width: 80%;
+    margin-left: 10px;
+    height: 24px;
+}
+
+.label {
+    font-size: 20px;
+    color: rgb(36, 35, 37);
+}
+
+.category{
+    padding-bottom: 10px;
+    margin-left: 10px;
+}
+
+.problem {
+    padding-bottom: 10px;
+    margin-left: 10px;
+}
+.solution {
+    padding-bottom: 10px;
+    margin-left: 10px;
+}
+.submit_button{
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgba(115, 240, 144, 0.67);
+}
